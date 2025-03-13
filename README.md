@@ -18,9 +18,11 @@
 -  Open to working on **AI, ML, and Deep Learning projects**  
 -  Always up for discussions on **cutting-edge AI and creative problem-solving**  
 
-### 📫 Connect with Me  
+### 📫 Connect with Me  : ruveenjay@gmail.com
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruveen-jayasinghe-86bb30240)  
 - 📹 [YouTube](https://www.youtube.com/@ruveenjay)  
-- 💼 [LinkedIn](www.linkedin.com/in/ruveen-jayasinghe-86bb30240)  
+
 
 
 ⚡ **Fun Fact:** I’m exploring ways to blend **AI, content creation, and business** into a long-term vision!  
