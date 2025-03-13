@@ -10,7 +10,7 @@
 -  I love working on **real-world AI applications** that push the boundaries of creativity and innovation  
 
 ### 🔬 What I’m Working On  
--  **AI-powered Lying Detector** – detecting fake reviews & misinformation using a **Transformer-CNN hybrid model**  
+-  **Hand-Gesture Detection Systems** – detecting different hand gestures that trigger set fucntions using **OpenCV, Mediapipe hands and selfie segmentation**  
 -  **AI-Generated vs. Real Image Classifier** – building a model to distinguish between **AI-created and authentic images**  
 -  **Portfolio Projects** – exploring **Image Classification, Object Detection**, and more  
 
