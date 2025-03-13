@@ -21,7 +21,8 @@
 ### 📫 Connect with Me  : ruveenjay@gmail.com
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruveen-jayasinghe-86bb30240)  
-- 📹 [YouTube](https://www.youtube.com/@ruveenjay)  
+- 📹 [YouTube](https://www.youtube.com/@RuveenJ)
+ 
 
 
 
